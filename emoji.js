@@ -12,7 +12,8 @@ var commands = [
     [ "rainbow", "🌈"],
     [ "moon", "🌑"],
     [ "full-moon", "🌕"],
-    [ "half-moon", "🌓"]
+    [ "half-moon", "🌓"],
+    [ "moon- face", "🌛"]
 ];
   
 // console.emoji() Function
