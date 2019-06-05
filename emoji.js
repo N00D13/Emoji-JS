@@ -5,7 +5,10 @@ var commands = [
     [ "pizza", "🍕" ],
     [ "beer", "🍺"],
     [ "poo", "💩"],
-    [ "rainbow", "🌈"]
+    [ "rainbow", "🌈"],
+    [ "moon", "🌑"],
+    [ "full-moon", "🌕"],
+    [ "half-moon", "🌓"]
   ];
   
   (function() {
