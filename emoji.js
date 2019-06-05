@@ -3,6 +3,8 @@
 var commands = [
     [ "unicorn", "🦄" ],
     [ "pizza", "🍕" ],
+    [ "banana", "🍌"],
+    [ "shrimp", "🍤"],
     [ "beer", "🍺"],
     [ "poo", "💩"],
     [ "rainbow", "🌈"],
